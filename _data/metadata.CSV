@@ -1,2 +1,12 @@
-Element Name,Dublin Core,Scheme/Vocab,Cardinality,Obligation,Content Guidelines,Examples
-objectid,Identifier,,1,M,objectid should be in form of vrNNN,vr001,vr002,vr003,vr004,vr005,vr006,vr007,vr008,vr009,vr010,vr011,vr012,vr013
+field,display_name,browse_link,dc_map,schema_map
+title,Title,,DCTERMS.title,headline
+creator,Creator,,DCTERMS.creator,creator
+date,Date Created,,DCTERMS.date,dateCreated
+date-is-approximate,Approximated Date
+description,Description,,DCTERMS.description,description
+subject,Subjects,true,DCTERMS.subject,keywords
+location,Location,true,,contentLocation
+identifier,Source Identifier
+type,Type,,DCTERMS.type
+format,Format,,,encodingFormat
+rightsstatement,,,DCTERMS.rights,license
