@@ -1,6 +1,7 @@
 field,display_name
+artist_stage_name,Artist
 title,Title
 date,Date
 description,Description
 genre,Genre
-artist_stage_name, Artist
+owner_of_object,Owner
