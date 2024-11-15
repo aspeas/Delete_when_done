@@ -1,19 +1,5 @@
-Element Name,Dublin Core
-objectid,Identifier
-filename,Identifier
+field,display_name
 title,Title
-format,Format
 date,Date
-location,Coverage
-artist_stage_name,Creator
-creator,Creator
 description,Description
-type,Type
-rights,Rights
-rights_statement,Rights
-genre,Subject
-publisher,Publisher
-rpm,Subject
-note,Description
-owner_of_object,Contributor
-call_number,Subject
+subject,Subjects
