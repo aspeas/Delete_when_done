@@ -7,3 +7,4 @@ subject,true,true
 location,true,false
 genre,genre,true
 artist,artist,true
+owner_of_object,owner,true
