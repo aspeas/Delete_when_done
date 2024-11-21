@@ -101,8 +101,8 @@ bootswatch: morph # leave blank or comment out for plain bootstrap
 
 # THEME FONTS
 base-font-size: 1.2em
-text-color: "#d7fefe"
-link-color: "#b1bce3 "
+text-color: "#ffffff"
+link-color: "#cdcdcd"
 base-font-family: # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
